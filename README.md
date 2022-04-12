@@ -6,4 +6,4 @@ I am hoping this will be a **valuable learning experience.**
 
 I am just trying out the *different* formatting possibilities for the mardown.
 
->Nothing ventured, nothing gained>
+>Nothing ventured, nothing gained
